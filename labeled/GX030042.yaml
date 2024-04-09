@@ -1,0 +1,95 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 8.775
+
+- labels:
+  - Play
+  - Run
+  time: 13.68
+
+- labels:
+  - Time_Between
+  time: 18.184
+
+- labels:
+  - Play
+  time: 59.092
+
+- labels:
+  - Play
+  - Run
+  time: 61.094
+
+- labels:
+  - Time_Between
+  time: 64.631
+
+- labels:
+  - Play
+  time: 101.434
+
+- labels:
+  - Play
+  - Pass
+  time: 108.374
+
+- labels:
+  - Time_Between
+  time: 110.743
+
+- labels:
+  - Play
+  time: 154.487
+
+- labels:
+  - Play
+  - Pass
+  time: 160.126
+
+- labels:
+  - Time_Between
+  time: 163.329
+
+- labels:
+  - Play
+  time: 273.773
+
+- labels:
+  - Play
+  - Field_Goal
+  time: 274.874
+
+- labels:
+  - Time_Between
+  time: 278.878
+
+- labels:
+  - Play
+  time: 349.582
+
+- labels:
+  - Play
+  - Kick-Off
+  time: 350.783
+
+- labels:
+  - Time_Between
+  time: 362.328
+
+- labels:
+  - Play
+  time: 403.136
+
+- labels:
+  - Play
+  - Pass
+  time: 409.976
+
+- labels:
+  - Time_Between
+  time: 413.946
+

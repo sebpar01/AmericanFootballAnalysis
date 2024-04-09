@@ -1,0 +1,69 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 32.932
+
+- labels:
+  - Play
+  - Pass
+  time: 43.293
+
+- labels:
+  - Time_Between
+  time: 46.546
+
+- labels:
+  - Play
+  time: 94.194
+
+- labels:
+  - Play
+  - Pass
+  time: 99.349
+
+- labels:
+  - Time_Between
+  time: 104.988
+
+- labels:
+  - Play
+  time: 181.748
+
+- labels:
+  - Play
+  - Pass
+  time: 185.034
+
+- labels:
+  - Time_Between
+  time: 191.341
+
+- labels:
+  - Play
+  time: 230.747
+
+- labels:
+  - Play
+  - Pass
+  time: 236.386
+
+- labels:
+  - Time_Between
+  time: 239.639
+
+- labels:
+  - Play
+  time: 277.493
+
+- labels:
+  - Play
+  - Pass
+  time: 279.996
+
+- labels:
+  - Time_Between
+  time: 283.933
+

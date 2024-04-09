@@ -1,0 +1,220 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 64.397
+
+- labels:
+  - Play
+  - Kick-Off
+  time: 65.432
+
+- labels:
+  - Time_Between
+  time: 72.072
+
+- labels:
+  - Play
+  time: 138.238
+
+- labels:
+  - Play
+  - Kick-Off
+  time: 139.272
+
+- labels:
+  - Time_Between
+  time: 150.817
+
+- labels:
+  - Play
+  time: 183.65
+
+- labels:
+  - Play
+  - Run
+  time: 186.186
+
+- labels:
+  - Time_Between
+  time: 190.39
+
+- labels:
+  - Play
+  time: 219.786
+
+- labels:
+  - Time_Between
+  time: 227.227
+
+- labels:
+  - Play
+  time: 282.515
+
+- labels:
+  - Play
+  - Run
+  time: 289.122
+
+- labels:
+  - Time_Between
+  time: 291.824
+
+- labels:
+  - Play
+  time: 335.568
+
+- labels:
+  - Play
+  - Pass
+  time: 338.671
+
+- labels:
+  - Time_Between
+  time: 341.741
+
+- labels:
+  - Play
+  time: 394.994
+
+- labels:
+  - Play
+  - Run
+  time: 397.196
+
+- labels:
+  - Time_Between
+  time: 399.932
+
+- labels:
+  - Play
+  time: 438.371
+
+- labels:
+  - Play
+  - Run
+  time: 440.173
+
+- labels:
+  - Time_Between
+  time: 443.843
+
+- labels:
+  - Play
+  time: 485.485
+
+- labels:
+  - Play
+  - Run
+  time: 487.186
+
+- labels:
+  - Time_Between
+  time: 489.989
+
+- labels:
+  - Play
+  time: 529.428
+
+- labels:
+  - Play
+  - Run
+  time: 531.097
+
+- labels:
+  - Time_Between
+  time: 534.367
+
+- labels:
+  - Play
+  time: 574.173
+
+- labels:
+  - Play
+  - Run
+  time: 575.775
+
+- labels:
+  - Time_Between
+  time: 579.445
+
+- labels:
+  - Play
+  time: 711.577
+
+- labels:
+  - Play
+  - Run
+  time: 713.079
+
+- labels:
+  - Time_Between
+  time: 719.819
+
+- labels:
+  - Play
+  time: 759.925
+
+- labels:
+  - Play
+  - Run
+  time: 761.427
+
+- labels:
+  - Time_Between
+  time: 767.733
+
+- labels:
+  - Play
+  time: 871.036
+
+- labels:
+  - Play
+  - Run
+  time: 872.471
+
+- labels:
+  - Time_Between
+  time: 876.075
+
+- labels:
+  - Play
+  time: 917.883
+
+- labels:
+  - Play
+  - Run
+  time: 919.184
+
+- labels:
+  - Time_Between
+  time: 922.922
+
+- labels:
+  - Play
+  time: 959.425
+
+- labels:
+  - Play
+  - Run
+  time: 960.893
+
+- labels:
+  - Time_Between
+  time: 964.997
+
+- labels:
+  - Play
+  time: 1007.339
+
+- labels:
+  - Play
+  - Run
+  time: 1008.674
+
+- labels:
+  - Time_Between
+  time: 1013.579
+

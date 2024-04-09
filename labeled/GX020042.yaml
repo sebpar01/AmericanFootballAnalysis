@@ -1,0 +1,353 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 47.547
+
+- labels:
+  - Play
+  - Run
+  time: 50.383
+
+- labels:
+  - Time_Between
+  time: 54.421
+
+- labels:
+  - Play
+  time: 91.825
+
+- labels:
+  - Play
+  - Punt
+  time: 93.626
+
+- labels:
+  - Time_Between
+  time: 102.435
+
+- labels:
+  - Play
+  time: 198.231
+
+- labels:
+  - Play
+  - Punt
+  time: 199.599
+
+- labels:
+  - Time_Between
+  time: 211.077
+
+- labels:
+  - Play
+  time: 340.473
+
+- labels:
+  - Play
+  - Pass
+  time: 342.975
+
+- labels:
+  - Time_Between
+  time: 347.18
+
+- labels:
+  - Play
+  time: 383.116
+
+- labels:
+  - Play
+  - Pass
+  time: 384.984
+
+- labels:
+  - Time_Between
+  time: 389.489
+
+- labels:
+  - Play
+  time: 421.22
+
+- labels:
+  - Play
+  - Pass
+  time: 423.389
+
+- labels:
+  - Time_Between
+  time: 427.326
+
+- labels:
+  - Play
+  time: 473.272
+
+- labels:
+  - Play
+  - Pass
+  time: 475.641
+
+- labels:
+  - Time_Between
+  time: 480.046
+
+- labels:
+  - Play
+  time: 512.178
+
+- labels:
+  - Play
+  - Pass
+  time: 515.381
+
+- labels:
+  - Time_Between
+  time: 524.19
+
+- labels:
+  - Play
+  time: 573.539
+
+- labels:
+  - Play
+  - Run
+  time: 575.474
+
+- labels:
+  - Time_Between
+  time: 581.881
+
+- labels:
+  - Play
+  time: 613.079
+
+- labels:
+  - Play
+  - Run
+  time: 614.78
+
+- labels:
+  - Time_Between
+  time: 619.785
+
+- labels:
+  - Play
+  time: 649.548
+
+- labels:
+  - Play
+  - Pass
+  time: 651.617
+
+- labels:
+  - Time_Between
+  time: 657.289
+
+- labels:
+  - Play
+  time: 692.425
+
+- labels:
+  - Play
+  - Pass
+  time: 695.227
+
+- labels:
+  - Time_Between
+  time: 698.898
+
+- labels:
+  - Play
+  time: 734.734
+
+- labels:
+  - Play
+  - Run
+  time: 736.535
+
+- labels:
+  - Time_Between
+  time: 739.972
+
+- labels:
+  - Play
+  time: 774.373
+
+- labels:
+  - Play
+  - Pass
+  time: 777.009
+
+- labels:
+  - Time_Between
+  time: 782.715
+
+- labels:
+  - Play
+  time: 883.916
+
+- labels:
+  - Play
+  - Pass
+  time: 887.419
+
+- labels:
+  - Time_Between
+  time: 892.625
+
+- labels:
+  - Play
+  time: 933.565
+
+- labels:
+  - Play
+  - Run
+  time: 935.701
+
+- labels:
+  - Time_Between
+  time: 939.004
+
+- labels:
+  - Play
+  time: 968.867
+
+- labels:
+  - Play
+  - Field_Goal
+  time: 969.702
+
+- labels:
+  - Time_Between
+  time: 973.372
+
+- labels:
+  - Play
+  time: 1051.517
+
+- labels:
+  - Play
+  - Kick-Off
+  time: 1052.618
+
+- labels:
+  - Time_Between
+  time: 1063.829
+
+- labels:
+  - Play
+  time: 1107.473
+
+- labels:
+  - Time_Between
+  time: 1113.112
+
+- labels:
+  - Play
+  time: 1151.316
+
+- labels:
+  - Play
+  - Pass
+  time: 1153.519
+
+- labels:
+  - Time_Between
+  time: 1157.523
+
+- labels:
+  - Play
+  time: 1198.997
+
+- labels:
+  - Play
+  - Pass
+  time: 1201.266
+
+- labels:
+  - Time_Between
+  time: 1204.469
+
+- labels:
+  - Play
+  time: 1239.972
+
+- labels:
+  - Play
+  - Punt
+  time: 1241.306
+
+- labels:
+  - Time_Between
+  time: 1248.814
+
+- labels:
+  - Play
+  time: 1286.251
+
+- labels:
+  - Play
+  - Run
+  time: 1287.753
+
+- labels:
+  - Time_Between
+  time: 1291.623
+
+- labels:
+  - Play
+  time: 1330.295
+
+- labels:
+  - Play
+  - Pass
+  time: 1333.699
+
+- labels:
+  - Time_Between
+  time: 1337.602
+
+- labels:
+  - Play
+  time: 1371.536
+
+- labels:
+  - Time_Between
+  time: 1375.807
+
+- labels:
+  - Play
+  time: 1407.506
+
+- labels:
+  - Play
+  - Pass
+  time: 1410.342
+
+- labels:
+  - Time_Between
+  time: 1413.345
+
+- labels:
+  - Play
+  time: 1436.435
+
+- labels:
+  - Play
+  - Run
+  time: 1438.303
+
+- labels:
+  - Time_Between
+  time: 1442.007
+
+- labels:
+  - Play
+  time: 1461.46
+
+- labels:
+  - Time_Between
+  time: 1467.499
+

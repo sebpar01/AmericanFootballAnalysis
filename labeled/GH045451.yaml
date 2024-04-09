@@ -1,0 +1,117 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 19.085
+
+- labels:
+  - Play
+  - Run
+  time: 21.087
+
+- labels:
+  - Time_Between
+  time: 23.44
+
+- labels:
+  - Play
+  time: 73.089
+
+- labels:
+  - Play
+  - Run
+  time: 74.891
+
+- labels:
+  - Time_Between
+  time: 79.295
+
+- labels:
+  - Play
+  time: 142.692
+
+- labels:
+  - Play
+  - Run
+  time: 144.994
+
+- labels:
+  - Time_Between
+  time: 147.981
+
+- labels:
+  - Play
+  time: 204.387
+
+- labels:
+  - Play
+  - Run
+  time: 207.14
+
+- labels:
+  - Time_Between
+  time: 211.945
+
+- labels:
+  - Play
+  time: 266.032
+
+- labels:
+  - Play
+  - Pass
+  time: 268.234
+
+- labels:
+  - Time_Between
+  time: 271.037
+
+- labels:
+  - Play
+  time: 318.835
+
+- labels:
+  - Play
+  - Run
+  time: 321.738
+
+- labels:
+  - Time_Between
+  time: 326.893
+
+- labels:
+  - Play
+  time: 421.487
+
+- labels:
+  - Play
+  - Run
+  time: 423.539
+
+- labels:
+  - Time_Between
+  time: 427.643
+
+- labels:
+  - Play
+  time: 477.493
+
+- labels:
+  - Play
+  - Run
+  time: 479.495
+
+- labels:
+  - Time_Between
+  time: 487.286
+
+- labels:
+  - Play
+  time: 529.095
+
+- labels:
+  - Play
+  - Run
+  time: 530.83
+

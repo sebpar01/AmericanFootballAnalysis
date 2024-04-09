@@ -1,0 +1,43 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 29.796
+
+- labels:
+  - Play
+  - Pass
+  time: 32.499
+
+- labels:
+  - Time_Between
+  time: 37.037
+
+- labels:
+  - Play
+  time: 90.79
+
+- labels:
+  - Play
+  - Pass
+  time: 93.626
+
+- labels:
+  - Time_Between
+  time: 100.5
+
+- labels:
+  - Play
+  time: 510.71
+
+- labels:
+  - Play
+  - Run
+  time: 514.514
+
+- labels:
+  - Time_Between
+  time: 519.719
+

@@ -1,0 +1,274 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 5.56
+
+- labels:
+  - Play
+  - Pass
+  time: 8.24
+
+- labels:
+  - Time_Between
+  time: 15.8
+
+- labels:
+  - Play
+  time: 50.48
+
+- labels:
+  - Play
+  - Pass
+  time: 52.64
+
+- labels:
+  - Time_Between
+  time: 55.92
+
+- labels:
+  - Play
+  time: 113.36
+
+- labels:
+  - Play
+  - Pass
+  time: 116.08
+
+- labels:
+  - Time_Between
+  time: 121.32
+
+- labels:
+  - Play
+  time: 160.0
+
+- labels:
+  - Play
+  - Pass
+  time: 163.08
+
+- labels:
+  - Time_Between
+  time: 166.48
+
+- labels:
+  - Play
+  time: 218.92
+
+- labels:
+  - Play
+  - Pass
+  time: 221.32
+
+- labels:
+  - Play
+  - Pass
+  time: 225.84
+
+- labels:
+  - Time_Between
+  time: 228.72
+
+- labels:
+  - Play
+  time: 276.24
+
+- labels:
+  - Play
+  - Pass
+  time: 278.44
+
+- labels:
+  - Time_Between
+  time: 281.72
+
+- labels:
+  - Play
+  time: 331.08
+
+- labels:
+  - Play
+  - Pass
+  time: 334.08
+
+- labels:
+  - Time_Between
+  time: 337.04
+
+- labels:
+  - Play
+  time: 432.8
+
+- labels:
+  - Play
+  - Pass
+  time: 435.84
+
+- labels:
+  - Time_Between
+  time: 441.08
+
+- labels:
+  - Play
+  time: 499.12
+
+- labels:
+  - Play
+  - Pass
+  time: 501.84
+
+- labels:
+  - Time_Between
+  time: 504.6
+
+- labels:
+  - Play
+  time: 559.68
+
+- labels:
+  - Play
+  - Pass
+  time: 563.16
+
+- labels:
+  - Time_Between
+  time: 565.72
+
+- labels:
+  - Play
+  time: 651.64
+
+- labels:
+  - Play
+  - Run
+  time: 654.6
+
+- labels:
+  - Play
+  - Pass
+  time: 656.24
+
+- labels:
+  - Time_Between
+  time: 658.96
+
+- labels:
+  - Play
+  time: 900.44
+
+- labels:
+  - Play
+  - Run
+  time: 902.24
+
+- labels:
+  - Time_Between
+  time: 907.84
+
+- labels:
+  - Play
+  time: 989.84
+
+- labels:
+  - Play
+  - Run
+  time: 992.6
+
+- labels:
+  - Time_Between
+  time: 995.68
+
+- labels:
+  - Play
+  time: 1074.4
+
+- labels:
+  - Play
+  - Run
+  time: 1076.84
+
+- labels:
+  - Time_Between
+  time: 1081.44
+
+- labels:
+  - Play
+  time: 1143.44
+
+- labels:
+  - Play
+  - Pass
+  time: 1145.64
+
+- labels:
+  - Time_Between
+  time: 1149.2
+
+- labels:
+  - Play
+  time: 1217.44
+
+- labels:
+  - Play
+  - Run
+  time: 1223.0
+
+- labels:
+  - Time_Between
+  time: 1226.52
+
+- labels:
+  - Play
+  time: 1301.0
+
+- labels:
+  - Play
+  - Run
+  time: 1304.4
+
+- labels:
+  - Time_Between
+  time: 1310.52
+
+- labels:
+  - Play
+  time: 1350.52
+
+- labels:
+  - Play
+  - Run
+  time: 1353.68
+
+- labels:
+  - Time_Between
+  time: 1355.0
+
+- labels:
+  - Play
+  time: 1463.44
+
+- labels:
+  - Play
+  - Pass
+  time: 1466.0
+
+- labels:
+  - Time_Between
+  time: 1471.12
+
+- labels:
+  - Play
+  time: 1515.72
+
+- labels:
+  - Play
+  - Run
+  time: 1517.48
+
+- labels:
+  - Time_Between
+  time: 1521.84
+

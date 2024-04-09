@@ -1,0 +1,238 @@
+- labels:
+  - Time_Between
+  time: 0.0
+
+- labels:
+  - Play
+  time: 12.579
+
+- labels:
+  - Play
+  - Run
+  time: 14.748
+
+- labels:
+  - Time_Between
+  time: 19.486
+
+- labels:
+  - Play
+  time: 61.928
+
+- labels:
+  - Play
+  - Pass
+  time: 63.696
+
+- labels:
+  - Time_Between
+  time: 68.435
+
+- labels:
+  - Play
+  time: 109.642
+
+- labels:
+  - Play
+  - Run
+  time: 111.778
+
+- labels:
+  - Time_Between
+  time: 113.246
+
+- labels:
+  - Play
+  time: 163.73
+
+- labels:
+  - Play
+  - Run
+  time: 166.866
+
+- labels:
+  - Time_Between
+  time: 172.238
+
+- labels:
+  - Play
+  time: 214.981
+
+- labels:
+  - Play
+  - Pass
+  time: 216.983
+
+- labels:
+  - Time_Between
+  time: 220.119
+
+- labels:
+  - Play
+  time: 259.125
+
+- labels:
+  - Play
+  - Run
+  time: 261.327
+
+- labels:
+  - Time_Between
+  time: 266.332
+
+- labels:
+  - Play
+  time: 299.132
+
+- labels:
+  - Play
+  - Run
+  time: 302.135
+
+- labels:
+  - Time_Between
+  time: 303.636
+
+- labels:
+  - Play
+  time: 358.024
+
+- labels:
+  - Play
+  - Run
+  time: 360.426
+
+- labels:
+  - Time_Between
+  time: 363.73
+
+- labels:
+  - Play
+  time: 421.387
+
+- labels:
+  - Play
+  - Pass
+  time: 423.289
+
+- labels:
+  - Time_Between
+  time: 427.727
+
+- labels:
+  - Play
+  time: 470.369
+
+- labels:
+  - Play
+  - Run
+  time: 473.372
+
+- labels:
+  - Time_Between
+  time: 475.441
+
+- labels:
+  - Play
+  time: 525.491
+
+- labels:
+  - Play
+  - Pass
+  time: 527.393
+
+- labels:
+  - Time_Between
+  time: 530.196
+
+- labels:
+  - Play
+  time: 570.369
+
+- labels:
+  - Play
+  - Pass
+  time: 572.171
+
+- labels:
+  - Time_Between
+  time: 574.874
+
+- labels:
+  - Play
+  time: 612.878
+
+- labels:
+  - Play
+  - Pass
+  time: 614.847
+
+- labels:
+  - Time_Between
+  time: 617.283
+
+- labels:
+  - Play
+  time: 1028.027
+
+- labels:
+  - Play
+  - Punt
+  time: 1029.862
+
+- labels:
+  - Time_Between
+  time: 1037.803
+
+- labels:
+  - Play
+  time: 1175.507
+
+- labels:
+  - Play
+  - Punt
+  time: 1177.609
+
+- labels:
+  - Time_Between
+  time: 1186.451
+
+- labels:
+  - Play
+  time: 1265.163
+
+- labels:
+  - Play
+  - Punt
+  time: 1266.932
+
+- labels:
+  - Time_Between
+  time: 1273.939
+
+- labels:
+  - Play
+  time: 1356.988
+
+- labels:
+  - Play
+  - Punt
+  time: 1358.957
+
+- labels:
+  - Time_Between
+  time: 1368.4
+
+- labels:
+  - Play
+  time: 1416.548
+
+- labels:
+  - Play
+  - Punt
+  time: 1418.183
+
+- labels:
+  - Time_Between
+  time: 1427.259
+
