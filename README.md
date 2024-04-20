@@ -12,4 +12,5 @@ The figure below shows the labeling concept.
 To facilitate labeling directly within the video recordings, a Python dashboard is utilized. This dashboard was developed using the PyQt6 package. Within this dashboard, there is a dedicated button for each label. When a specific sequence is detected in the video, the corresponding label can be selected. In this process, the multi-level one-hot encoding principle described above is applied.
 By pressing a button, an entry with the timestamp and the corresponding label is created in a YAML file. Consequently, each timestamp in the video can be assigned a label based on this YAML file. This is crucial for further labeling of the frames.
 
+
 ## Frame Labeling (frame_labeling.py)
