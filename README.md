@@ -4,3 +4,6 @@ This is the Repository for my bachelor's thesis: Automatisierte Nachbereitung vo
 # Introduction
 This repository contains all the code and files which are necessary for my bachelor's thesis. The aim of the thesis is to classify American football plays based on videos. The individual steps will be explained in more detail in the following chapters.
 
+# Labeling 
+## Video Labeling 
+## Frame Labeling
