@@ -15,7 +15,7 @@ The figure below shows the labeling concept.
 
 To facilitate labeling directly within the video recordings, a Python dashboard is utilized. This dashboard was developed using the PyQt6 package. Within this dashboard, there is a dedicated button for each label. When a specific sequence is detected in the video, the corresponding label can be selected. In this process, the multi-level one-hot encoding principle described above is applied.
 By pressing a button, an entry with the timestamp and the corresponding label is created in a YAML file. Consequently, each timestamp in the video can be assigned a label based on this YAML file. This is crucial for further labeling of the frames.
-The figure below shows the output of the Obe-Hot-Encoding Labeling for one specific video. An active label (clicked button) is represented by the value 1. An inactive has the value 0. 
+The figure below shows the output of the One-Hot-Encoding Labeling for one specific video based on the yaml-file. An active label (clicked button) is represented by the value 1. An inactive has the value 0. 
 
 ![Labeling_Video_Github](https://github.com/sebpar01/AmericanFootballAnalysis/assets/101809039/2bb56ab5-c1e0-45b5-b38a-e95dedf76c15)
 
