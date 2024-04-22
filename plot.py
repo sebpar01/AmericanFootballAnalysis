@@ -2,13 +2,13 @@ import matplotlib.pyplot as plt
 import yaml
 
 # Load data from the YAML file
-with open('GX020053.yaml', 'r') as file:
+with open('GX020050.yaml', 'r') as file:
     data = yaml.safe_load(file)
 
 # Function to create the plots
 def create_plots(data):
     # Define the labels to be used
-    labels = ["Play", "Time_Between", "Pass", "Run", "Punt", "Field Goal", "Kick-Off"]
+    labels = ["Play", "Time_Between", "Pass", "Run", "Punt", "Field_Goal", "Kick-Off"]
 
     # Create subplots based on the number of labels
     fig, axs = plt.subplots(len(labels), figsize=(10, 8), sharex=True)
