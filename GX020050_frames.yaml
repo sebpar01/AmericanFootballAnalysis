@@ -1,0 +1,239 @@
+- labels:
+  - Time_Between
+  time: 0
+- labels:
+  - Play
+  time: 897
+- labels:
+  - Play
+  - Run
+  time: 946
+- labels:
+  - Time_Between
+  time: 1029
+- labels:
+  - Play
+  time: 2197
+- labels:
+  - Play
+  - Run
+  time: 2250
+- labels:
+  - Time_Between
+  time: 2373
+- labels:
+  - Play
+  time: 3492
+- labels:
+  - Play
+  - Run
+  time: 3663
+- labels:
+  - Time_Between
+  time: 3799
+- labels:
+  - Play
+  time: 4928
+- labels:
+  - Play
+  - Run
+  time: 4992
+- labels:
+  - Time_Between
+  time: 5036
+- labels:
+  - Play
+  time: 6515
+- labels:
+  - Play
+  - Pass
+  time: 6578
+- labels:
+  - Time_Between
+  time: 6710
+- labels:
+  - Play
+  time: 7865
+- labels:
+  - Play
+  - Punt
+  time: 7920
+- labels:
+  - Time_Between
+  time: 8133
+- labels:
+  - Play
+  time: 9512
+- labels:
+  - Play
+  - Run
+  time: 9567
+- labels:
+  - Time_Between
+  time: 9663
+- labels:
+  - Play
+  time: 10580
+- labels:
+  - Play
+  - Run
+  time: 10631
+- labels:
+  - Time_Between
+  time: 10754
+- labels:
+  - Play
+  time: 11760
+- labels:
+  - Play
+  - Pass
+  time: 11837
+- labels:
+  - Time_Between
+  time: 11957
+- labels:
+  - Play
+  time: 13335
+- labels:
+  - Play
+  - Punt
+  time: 13396
+- labels:
+  - Time_Between
+  time: 13602
+- labels:
+  - Play
+  time: 15012
+- labels:
+  - Play
+  - Pass
+  time: 15088
+- labels:
+  - Time_Between
+  time: 15255
+- labels:
+  - Play
+  time: 16714
+- labels:
+  - Play
+  - Run
+  time: 16847
+- labels:
+  - Time_Between
+  time: 16982
+- labels:
+  - Play
+  time: 18270
+- labels:
+  - Play
+  - Pass
+  time: 18391
+- labels:
+  - Time_Between
+  time: 18525
+- labels:
+  - Play
+  time: 22399
+- labels:
+  - Play
+  - Run
+  time: 22500
+- labels:
+  - Time_Between
+  time: 22588
+- labels:
+  - Play
+  time: 23926
+- labels:
+  - Play
+  - Field_Goal
+  time: 23978
+- labels:
+  - Time_Between
+  time: 24050
+- labels:
+  - Play
+  time: 26821
+- labels:
+  - Play
+  - Kick-Off
+  time: 26848
+- labels:
+  - Time_Between
+  time: 27095
+- labels:
+  - Play
+  time: 28652
+- labels:
+  - Play
+  - Run
+  time: 28715
+- labels:
+  - Time_Between
+  time: 28837
+- labels:
+  - Play
+  time: 32555
+- labels:
+  - Play
+  - Run
+  time: 32611
+- labels:
+  - Time_Between
+  time: 32710
+- labels:
+  - Play
+  time: 33955
+- labels:
+  - Play
+  - Run
+  time: 33998
+- labels:
+  - Time_Between
+  time: 34147
+- labels:
+  - Play
+  time: 35474
+- labels:
+  - Play
+  - Pass
+  time: 35543
+- labels:
+  - Time_Between
+  time: 35603
+- labels:
+  - Play
+  time: 36751
+- labels:
+  - Time_Between
+  time: 36968
+- labels:
+  - Play
+  time: 38690
+- labels:
+  - Play
+  - Run
+  time: 38739
+- labels:
+  - Time_Between
+  time: 38940
+- labels:
+  - Play
+  time: 39870
+- labels:
+  - Play
+  - Run
+  time: 39940
+- labels:
+  - Time_Between
+  time: 40034
+- labels:
+  - Play
+  time: 43014
+- labels:
+  - Play
+  - Run
+  time: 43062
+- labels:
+  - Time_Between
+  time: 43206

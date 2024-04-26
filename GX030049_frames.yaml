@@ -1,0 +1,165 @@
+- labels:
+  - Time_Between
+  time: 0
+- labels:
+  - Play
+  time: 881
+- labels:
+  - Play
+  - Punt
+  time: 935
+- labels:
+  - Time_Between
+  time: 1248
+- labels:
+  - Play
+  time: 2720
+- labels:
+  - Play
+  - Run
+  time: 2768
+- labels:
+  - Time_Between
+  time: 2852
+- labels:
+  - Play
+  time: 3935
+- labels:
+  - Play
+  - Pass
+  time: 3986
+- labels:
+  - Time_Between
+  time: 4064
+- labels:
+  - Play
+  time: 5550
+- labels:
+  - Play
+  - Run
+  time: 5682
+- labels:
+  - Time_Between
+  time: 5753
+- labels:
+  - Play
+  time: 11690
+- labels:
+  - Play
+  - Punt
+  time: 11745
+- labels:
+  - Time_Between
+  time: 11937
+- labels:
+  - Play
+  time: 13306
+- labels:
+  - Play
+  - Run
+  time: 13358
+- labels:
+  - Time_Between
+  time: 13445
+- labels:
+  - Play
+  time: 14488
+- labels:
+  - Time_Between
+  time: 14596
+- labels:
+  - Play
+  time: 16216
+- labels:
+  - Play
+  - Run
+  time: 16285
+- labels:
+  - Time_Between
+  time: 16372
+- labels:
+  - Play
+  time: 18966
+- labels:
+  - Time_Between
+  time: 19063
+- labels:
+  - Play
+  time: 20277
+- labels:
+  - Play
+  - Run
+  time: 20406
+- labels:
+  - Time_Between
+  time: 20527
+- labels:
+  - Play
+  time: 23439
+- labels:
+  - Play
+  - Pass
+  time: 23509
+- labels:
+  - Time_Between
+  time: 23575
+- labels:
+  - Play
+  time: 24645
+- labels:
+  - Play
+  - Punt
+  time: 24693
+- labels:
+  - Time_Between
+  time: 24928
+- labels:
+  - Play
+  time: 26385
+- labels:
+  - Play
+  - Run
+  time: 26454
+- labels:
+  - Time_Between
+  time: 26595
+- labels:
+  - Play
+  time: 28121
+- labels:
+  - Play
+  - Pass
+  time: 28203
+- labels:
+  - Time_Between
+  time: 28296
+- labels:
+  - Play
+  time: 30758
+- labels:
+  - Play
+  - Run
+  time: 30812
+- labels:
+  - Time_Between
+  time: 30903
+- labels:
+  - Play
+  time: 31437
+- labels:
+  - Play
+  - Pass
+  time: 31515
+- labels:
+  - Time_Between
+  time: 31578
+- labels:
+  - Play
+  time: 34245
+- labels:
+  - Play
+  - Field_Goal
+  time: 34276
+- labels:
+  - Time_Between
+  time: 34723
