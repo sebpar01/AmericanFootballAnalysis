@@ -76,7 +76,7 @@ def convert_yaml_to_frames(yaml_data, framerate, yaml_file_path):
         return None
 
 # Function to create the folder structure and save frames according to labels in the YAML file
-def save_frames_to_folders(video_capture, yaml_data, output_folder, video_name):
+def save_frames_to_folders(video_capture, yaml_data, output_folder, video_name, frame_skip=5):
     for i, entry in enumerate(yaml_data):
         labels = entry["labels"]
         start_frame = entry["time"]
@@ -85,22 +85,25 @@ def save_frames_to_folders(video_capture, yaml_data, output_folder, video_name):
         # Jump to the desired frame
         video_capture.set(cv2.CAP_PROP_POS_FRAMES, start_frame)
         
+        frame_count = 0
         while True:
             ret, frame = video_capture.read()
             
             if ret:
-                # Save the frame in the corresponding label folder
-                for label in labels:
-                    label_folder = os.path.join(output_folder, label)
-                    if not os.path.exists(label_folder):
-                        os.makedirs(label_folder)
-                    
-                    frame_filename = f"{video_name}_frame_{start_frame}.jpg"
-                    frame_path = os.path.join(label_folder, frame_filename)
-                    cv2.imwrite(frame_path, frame)
-                    print(f"Frame {start_frame} saved in the '{label}' folder.")
+                if frame_count % frame_skip == 0:
+                    # Save the frame in the corresponding label folder
+                    for label in labels:
+                        label_folder = os.path.join(output_folder, label)
+                        if not os.path.exists(label_folder):
+                            os.makedirs(label_folder)
+                        
+                        frame_filename = f"{video_name}_frame_{start_frame}.jpg"
+                        frame_path = os.path.join(label_folder, frame_filename)
+                        cv2.imwrite(frame_path, frame)
+                        print(f"Frame {start_frame} saved in the '{label}' folder.")
                 
                 start_frame += 1
+                frame_count += 1
                 
                 if end_frame is not None and start_frame >= end_frame:
                     break
