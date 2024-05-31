@@ -24,3 +24,12 @@ The figure below shows the output of the One-Hot-Encoding Labeling for one speci
 For the deep learning approach, it is now crucial to label each individual frame. To achieve this, the video is split into individual frames using OpenCV. The YAML file generated through video labeling is then converted so that the timestamp is converted from seconds to frames.
 Subsequently, each individual frame of the video can be labeled according to the YAML file. For this purpose, a separate folder is created for each category, in which the corresponding frames are stored.
 All these steps are carried out by the frame_labeling.py script.
+
+# Dataset
+
+# Data Processing
+## Rescaling 
+## Normalization 
+## Data Augmentation 
+
+# Development of the Neural Network
