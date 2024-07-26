@@ -9,8 +9,10 @@ Stay tuned.
 # Labeling 
 
 ## Video Labeling (labeling_tool.py)
+PyQt6 dashboard to assign labels to a running video. An existing dashboard was adapted for this purpose. Assigned labels are saved (timestamps in seconds) in a YAML file.
 
 ## Frame Labeling (frame_labeling.py)
+Code to convert the timestamp in a YAML file from seconds to frames.
 
 # Dataset
 
@@ -27,9 +29,6 @@ Code for generating statistics to capture the frequency and distribution of the 
 
 ## plot.py
  Code to creat plots to visualize results and processes; a plot for labeling is presented here.
-
-## yaml_frames.py 
-Code to convert the timestamp in a YAML file from seconds to frames.
 
 ## Citation.cff
 This cff file is used to store all the information needed to enable the citation of this repository
