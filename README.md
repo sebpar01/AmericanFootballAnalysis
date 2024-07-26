@@ -23,6 +23,7 @@ Code for generating statistics to capture the frequency and distribution of the 
 # Development of the Neural Network
 
 ## Binary Classification (Binary_Classification.ipynb)
+Code that includes data processing, the data loader, and the neural network architecture for binary classification. The network consists of a CNN (ResNet50) combined with an LSTM. The validation of the network is also performed in this code.
 
 ## Multiclass Classification (Play_Type_Classification.ipynb)
 
