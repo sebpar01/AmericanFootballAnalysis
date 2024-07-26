@@ -26,6 +26,7 @@ Code for generating statistics to capture the frequency and distribution of the 
 Code that includes data processing, the data loader, and the neural network architecture for binary classification. The network consists of a CNN (ResNet50) combined with an LSTM. The validation of the network is also performed in this code.
 
 ## Multiclass Classification (Play_Type_Classification.ipynb)
+This code includes the same steps as the one for binary classification. The network architecture is also similar. The difference here is that it distinguishes between 5 classes instead of just two, hence the name multiclass classification.
 
 # Additional Code
 
