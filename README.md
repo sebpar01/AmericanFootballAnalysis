@@ -14,9 +14,20 @@ Stay tuned.
 
 # Dataset
 
-# Data Processing
-## Rescaling 
-## Normalization 
-## Data Augmentation 
+## Statistics (statistics.py)
+
 
 # Development of the Neural Network
+
+## Binary Classification (Binary_Classification.ipynb)
+
+## Multiclass Classification (Play_Type_Classification.ipynb)
+
+# Additional Code
+
+## plot.py
+
+## yaml_frames.py 
+
+## Citation.cff
+This cff file is used to store all the information needed to enable the citation of this repository
