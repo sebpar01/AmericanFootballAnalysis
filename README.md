@@ -28,6 +28,7 @@ Stay tuned.
 ## plot.py
 
 ## yaml_frames.py 
+Code to convert the timestamp in a YAML file from seconds to frames.
 
 ## Citation.cff
 This cff file is used to store all the information needed to enable the citation of this repository
