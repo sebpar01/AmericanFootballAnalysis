@@ -12,7 +12,8 @@ Stay tuned.
 PyQt6 dashboard to assign labels to a running video. An existing dashboard was adapted for this purpose. Assigned labels are saved (timestamps in seconds) in a YAML file.
 
 ## Frame Labeling (frame_labeling.py)
-Code to convert the timestamp in a YAML file from seconds to frames.
+
+Code to convert the previously conducted labeling of an entire video to individual frames. The existing YAML file is converted from seconds to frames by calculating the fps. Then, a separate folder is created for each label, in which the corresponding frames are stored.
 
 # Dataset
 
