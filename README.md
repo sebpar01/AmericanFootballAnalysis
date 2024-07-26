@@ -26,6 +26,7 @@ Stay tuned.
 # Additional Code
 
 ## plot.py
+ Code to creat plots to visualize results and processes; a plot for labeling is presented here.
 
 ## yaml_frames.py 
 Code to convert the timestamp in a YAML file from seconds to frames.
