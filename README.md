@@ -15,7 +15,7 @@ Stay tuned.
 # Dataset
 
 ## Statistics (statistics.py)
-
+Code for generating statistics to capture the frequency and distribution of the classes.
 
 # Development of the Neural Network
 
